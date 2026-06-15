@@ -3,7 +3,7 @@
 **ML Engineer & Research Software Engineer** — I build high-performance machine learning and scientific computing systems, with deep expertise in PyTorch, JAX, and GPU/CUDA acceleration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-james--keeble-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-keeble-0442803b1)
-[![Google Scholar](https://img.shields.io/badge/Scholar-160%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com)
+[![Google Scholar](https://img.shields.io/badge/Scholar-160%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=XednZsIAAAAJ&hl=en)
 
 ---
 
