@@ -9,7 +9,7 @@
 
 ## 🏆 Highlights
 
-- **PyTorch Pace-Setter Award 2023** — awarded by the PyTorch Foundation for excellence in high-level contributions to the PyTorch ecosystem
+- **PyTorch Pace-Setter Award 2023** — awarded by the [PyTorch Foundation](https://pytorch.org/ecosystem/contributor-awards-2023/#:~:text=PYTORCH%20PACE%2DSETTER,James%20Keeble) for excellence in high-level contributions to the PyTorch ecosystem
 - **10,000× simulation speedup** — engineered a GPU-accelerated Julia/CUDA package that reduced walltime from weeks to hours, enabling previously intractable quantum-complexity studies
 - **First application of ML to nuclear structure calculations** — published in peer-reviewed journals and presented at international conferences across Europe and the US
 - **160+ citations** | h-index 5 | i10-index 3
