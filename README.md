@@ -22,7 +22,7 @@ My work spans Machine Learning research, HPC, GPU acceleration, optimization alg
 
 - **PyTorch Pace-Setter Award 2023** — awarded by the [PyTorch Foundation](https://pytorch.org/ecosystem/contributor-awards-2023/#:~:text=PYTORCH%20PACE%2DSETTER,James%20Keeble) for excellence in high-level contributions to the PyTorch ecosystem
 - **10,000× System Scaling & Optimization** — Co-authored a high-performance simulation package to estimate the quantum resources of wavefunctions in the computational basis, leading the native GPU-acceleration architecture; developed custom **CUDA.jl kernels** that expanded supported system sizes by **10,000×** and slashed execution walltimes from **months to hours**.
-  *(Status: Codebase currently proprietary; scheduled for open-source release upon publication of companion research)*
+  *(Status: Codebase currently proprietary; scheduled for open-source release upon publication of the corresponding research article)*
 - **First application of ML to nuclear structure calculations** — published in peer-reviewed journals and presented at international conferences across Europe and the US
 - **170+ citations** | h-index 6 | i10-index 3
 
