@@ -1,8 +1,8 @@
 # Hi, I'm James 👋
 
-**Machine Learning Engineer • Research Software Engineer • Scientific Computing**
+**Computational Physicist • Machine Learning Engineer • Research Software Engineer • Scientific Computing**
 
-I develop high-performance machine learning and scientific computing software for computational physics research, with expertise in **PyTorch, JAX, CUDA, and large-scale GPU-accelerated simulation**.
+I develop high-performance Machine Learning and scientific computing software for computational physics research, with expertise in **PyTorch, JAX, CUDA, and large-scale GPU-accelerated simulation**.
 
 My work spans Machine Learning research, HPC, GPU acceleration, optimization algorithms, and scientific software engineering.
 
@@ -21,7 +21,8 @@ My work spans Machine Learning research, HPC, GPU acceleration, optimization alg
 ## 🏆 Highlights
 
 - **PyTorch Pace-Setter Award 2023** — awarded by the [PyTorch Foundation](https://pytorch.org/ecosystem/contributor-awards-2023/#:~:text=PYTORCH%20PACE%2DSETTER,James%20Keeble) for excellence in high-level contributions to the PyTorch ecosystem
-- **10,000× simulation speedup** — engineered a GPU-accelerated Julia/CUDA package that reduced walltime from weeks to hours, enabling previously intractable quantum-complexity studies
+- **10,000× System Scaling & Optimization** — Co-authored a high-performance simulation package to estimate the quantum resources of wavefunctions in the computational basis, leading the native GPU-acceleration architecture; developed custom **CUDA.jl kernels** that expanded supported system sizes by **10,000×** and slashed execution walltimes from **months to hours**.
+  *(Status: Codebase currently proprietary; scheduled for open-source release upon publication of companion research)*
 - **First application of ML to nuclear structure calculations** — published in peer-reviewed journals and presented at international conferences across Europe and the US
 - **170+ citations** | h-index 6 | i10-index 3
 
@@ -63,8 +64,7 @@ Advanced optimization methods for Neural Quantum States (NQS) including:
 - Stochastic Reconfiguration
 - Decisional Gradient Descent (novel research)
 
-Companion code for a published paper in [*Phil. Trans. R. Soc. A* (2024)](https://doi.org/10.1098/rsta.2024.0057).
-
+Companion code for a published paper: Drissi, M., et al. ["Second-order optimization strategies for neural network quantum states."](https://doi.org/10.1098/rsta.2024.0057) Philosophical Transactions A 382.2275 (2024): 20240057.
 
 ---
 
@@ -74,7 +74,7 @@ First application of Machine Learning methods to nuclear structure calculations.
 
 Developed neural-network-based variational methods for quantum many-body systems.
 
-Companion code for the published paper in [*Phy. Lett. B* (2020)](https://www.sciencedirect.com/science/article/pii/S0370269320305463)
+Companion code for the published paper: Keeble, J. W. T., and A. Rios. ["Machine learning the deuteron."](https://www.sciencedirect.com/science/article/pii/S0370269320305463) Physics Letters B 809 (2020): 135743.
 
 ---
 
