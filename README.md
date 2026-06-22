@@ -12,7 +12,7 @@ My work spans Machine Learning research, HPC, GPU acceleration, optimization alg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jwtkeeble&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jwtkeeble&show_icons=true&theme=dark&hide_rank=true#gh-dark-mode-only" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwtkeeble&layout=compact&theme=dark#gh-dark-mode-only" />
 </p>
 
@@ -58,11 +58,9 @@ My work spans Machine Learning research, HPC, GPU acceleration, optimization alg
 
 ### 🔬 [Second Order Optimization NQS](https://github.com/jwtkeeble/second-order-optimization-NQS)
 
-Advanced optimization methods for Neural Quantum States (NQS) including:
-
-- KFAC
-- Stochastic Reconfiguration
-- Decisional Gradient Descent (novel research)
+High-performance optimization framework for Neural Quantum States (NQS).
+- Implemented scalable second-order optimization strategies including **KFAC** and **Stochastic Reconfiguration**.
+- Engineered a novel optimization strategy called **Decisional Gradient Descent** (motivated by Game Theory), which improves numerical optimization over Stochastic Reconfiguration.
 
 Companion code for a published paper: Drissi, M., et al. ["Second-order optimization strategies for neural network quantum states."](https://doi.org/10.1098/rsta.2024.0057) Philosophical Transactions A 382.2275 (2024): 20240057.
 
@@ -70,15 +68,15 @@ Companion code for a published paper: Drissi, M., et al. ["Second-order optimiza
 
 ### ⚛️ [Machine Learning the Deuteron](https://github.com/jwtkeeble/machine-learning-the-deuteron)
 
-First application of Machine Learning methods to nuclear structure calculations.
-
-Developed neural-network-based variational methods for quantum many-body systems.
+The first open-source application of Machine Learning to nuclear structure calculations.
+- Engineered the first application of neural networks in representing nuclear many-body systems - the deuteron.
+- Demonstrated that neural networks can represent nuclear wavefunctions to high degrees of accuracy.
 
 Companion code for the published paper: Keeble, J. W. T., and A. Rios. ["Machine learning the deuteron."](https://www.sciencedirect.com/science/article/pii/S0370269320305463) Physics Letters B 809 (2020): 135743.
 
 ---
 
-## 📄 Select Publications
+## 📄 Select Publications [Full List on my Google Scholar profile](https://scholar.google.com/citations?user=XednZsIAAAAJ&hl=en)
 
 - **Keeble, Lovato, Robin** — *"Neural Quantum States in Non-Stabilizer Regimes: Benchmarks with Atomic Nuclei"* — arXiv:2603.28646 (2026)
 - **Drissi, Keeble, Rozalén Sarmiento, Rios** — *"Second-order optimization strategies for neural network quantum states"* — Phil. Trans. R. Soc. A 382, 20240057 (2024)
