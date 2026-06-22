@@ -12,8 +12,8 @@ My work spans Machine Learning research, HPC, GPU acceleration, optimization alg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jwtkeeble&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwtkeeble&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jwtkeeble&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwtkeeble&layout=compact&theme=dark#gh-dark-mode-only" />
 </p>
 
 ---
