@@ -1,10 +1,20 @@
 # Hi, I'm James 👋
 
-**ML Engineer & Research Software Engineer** — I build high-performance machine learning and scientific computing systems, with deep expertise in PyTorch, JAX, and GPU/CUDA acceleration.
+**Machine Learning Engineer • Research Software Engineer • Scientific Computing**
+
+I develop high-performance machine learning and scientific computing software for computational physics research, with expertise in **PyTorch, JAX, CUDA, and large-scale GPU-accelerated simulation**.
+
+My work spans Machine Learning research, HPC, GPU acceleration, optimization algorithms, and scientific software engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-james--keeble-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-keeble-0442803b1)
-[![Google Scholar](https://img.shields.io/badge/Scholar-160%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=XednZsIAAAAJ&hl=en)
-[![jwtkeeble's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwtkeeble)]
+[![Google Scholar](https://img.shields.io/badge/Scholar-170%2B_Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=XednZsIAAAAJ&hl=en)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jwtkeeble&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwtkeeble&layout=compact" />
+</p>
 
 ---
 
@@ -13,7 +23,7 @@
 - **PyTorch Pace-Setter Award 2023** — awarded by the [PyTorch Foundation](https://pytorch.org/ecosystem/contributor-awards-2023/#:~:text=PYTORCH%20PACE%2DSETTER,James%20Keeble) for excellence in high-level contributions to the PyTorch ecosystem
 - **10,000× simulation speedup** — engineered a GPU-accelerated Julia/CUDA package that reduced walltime from weeks to hours, enabling previously intractable quantum-complexity studies
 - **First application of ML to nuclear structure calculations** — published in peer-reviewed journals and presented at international conferences across Europe and the US
-- **160+ citations** | h-index 5 | i10-index 3
+- **170+ citations** | h-index 6 | i10-index 3
 
 ---
 
@@ -45,17 +55,26 @@
 
 ## 📌 Featured Projects
 
-### 🔬 [second-order-optimization-NQS](https://github.com/jwtkeeble/second-order-optimization-NQS)
-Custom second-order optimisation strategies (KFAC, SR) and novel Decisional Gradient Descent (DGD) for neural network quantum states in PyTorch. Companion code for a published paper in *Phil. Trans. R. Soc. A* (2024).
+### 🔬 [Second Order Optimization NQS](https://github.com/jwtkeeble/second-order-optimization-NQS)
 
-`PyTorch` `Optimisation` `Neural Quantum States` `KFAC` `Stochastic Reconfiguration`
+Advanced optimization methods for Neural Quantum States (NQS) including:
+
+- KFAC
+- Stochastic Reconfiguration
+- Decisional Gradient Descent (novel research)
+
+Companion code for a published paper in [*Phil. Trans. R. Soc. A* (2024)](https://doi.org/10.1098/rsta.2024.0057).
+
 
 ---
 
-### ⚛️ [SpinlessFermions](https://github.com/jwtkeeble/machine-learning-the-deuteron)
-ML-based variational approach to simulate a self-bound nuclear system — the deuteron. The first application of ML to nuclear structure calculations.
+### ⚛️ [Machine Learning the Deuteron](https://github.com/jwtkeeble/machine-learning-the-deuteron)
 
-`PyTorch` `Variational Monte Carlo` `Quantum Many-Body` `Physics`
+First application of Machine Learning methods to nuclear structure calculations.
+
+Developed neural-network-based variational methods for quantum many-body systems.
+
+Companion code for the published paper in [*Phy. Lett. B* (2020)](https://www.sciencedirect.com/science/article/pii/S0370269320305463)
 
 ---
 
