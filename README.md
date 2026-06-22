@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-james--keeble-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-keeble-0442803b1)
 [![Google Scholar](https://img.shields.io/badge/Scholar-160%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=XednZsIAAAAJ&hl=en)
+[![jwtkeeble's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwtkeeble)]
 
 ---
 
